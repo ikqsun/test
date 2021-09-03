@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,5 HD
-http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
 #EXTINF:-1,NBT HD
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1,TPBS HD
