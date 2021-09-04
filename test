@@ -123,10 +123,7 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT Sport 2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1,Euro Sport 1
-https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1,Euro Sport 2
-https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+
 #EXTINF:-1,Espn 2
 http://stream2.grandma.fit/espn2.m3u8?SBN
 #EXTINF:-1,Astro Arena
@@ -147,16 +144,7 @@ http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Arena Sport 4
 http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sport TV1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,Sport TV2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,Sport TV3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,Sport TV4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,Sport TV5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1,Skynet Sports 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8?fbclid=IwAR2CNYAkljbQ0gxjqNvAK3zcZcTPvihAxwTVm5bwdEP0xcAp_xT0qSIXphY
 #EXTINF:-1,Skynet Sports 3
@@ -175,32 +163,27 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,TSportsHD
-http://103.81.104.118/hls/t-sports.m3u8
-#EXTINF:-1,PTV Sports
-http://103.81.104.118/hls/stream11.m3u8
-#EXTINF:-1,Sony Six
-http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1,Sony TEN1
-http://103.81.104.118/hls/stream40.m3u8
-#EXTINF:-1,Sony TEN2
-http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1,UNEARTH
 https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,National Geographic EN
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Animal Planet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1,ANIMAL
+http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist.m3u8
+
 #EXTINF:-1,H2
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1,History
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+https://mediasv.online/tvchannel_x1/hd-history2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjEgMTE6MTc6MTEgUE0maGFzaF92YWx1ZT1ZVmxhV2ZvdWRCZ20ybU9naGNGbW9RPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI0JmlkPWNoXzYzNzU3
+
+#EXTINF:-1,History HD
+https://mediasv.online/tvchannel_x1/hd-history/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjEgNzo0MDoxNSBQTSZoYXNoX3ZhbHVlPUg2aWZmd2wxZVVrSkduSnVmNnpvN3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjMmaWQ9Y2hfOTQ4MjM=
+
 #EXTINF:-1,National Geographic Wild EN
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+https://mediasv.online/tvchannel_x1/natgeo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjEgNzo0MTo1MSBQTSZoYXNoX3ZhbHVlPWJEK0p2bjhRVlA0RnFKSE1oVHBQVmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfMTU0NzI=
+
 #EXTINF:-1,Nat Geo Wild TH
 https://mediasv.online/live7f/hd-natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6Mjk6MTYgQU0maGFzaF92YWx1ZT1CVXZMeERtcXI5MTIyV0kyS2pIVEpRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzQ4OTc1&fbclid=IwAR3450SVxnX8ytluaJbn9gZO_U0pC7rr3-YVVlHjpAU5wqEMV1OFWLqRHPw
-#EXTINF:-1,History HD
-http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
+
 #EXTINF:-1,BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,BBC Lifestyle
