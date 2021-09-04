@@ -11,8 +11,6 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1,TNN16
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1,National Geographic EN
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,JKN18
 https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
 #EXTINF:-1,NATION
@@ -27,10 +25,6 @@ https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1,MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1988399235.m3u8
-#EXTINF:-1,Mix Major
-https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w949285084.m3u8
-#EXTINF:-1,M Channel
-http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1,MCOT HD
 https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
 #EXTINF:-1,ONE31 HD
@@ -49,44 +43,40 @@ https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w1877077711.m3u8
 #EXTINF:-1,TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
-#EXTINF:-1,Cartoon Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1,Saradee 99
+https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8
+#EXTINF:-1,Thin Tai The Battle
+https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1,Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w949285084.m3u8
+#EXTINF:-1,M Channel
+http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1,Boomerang
 http://916309128f3e.sn.mynetname.net:1935/aslive/boomerang/chunklist.m3u8
+#EXTINF:-1,Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1,TOONEE
 http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8
 #EXTINF:-1,FWTOON
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1,Thin Tai The Battle
-https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
-#EXTINF:-1,Saradee 99
-https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8
-#EXTINF:-1,True Premier HD 1
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premier HD 2
-https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premier HD 3
-https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1,True Premier HD 4
-https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1,True Premier HD 5
-https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1,True Sports HD
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1,True Sports HD2
-https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1,True Sports HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1,True Sports HD4
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1,True Sports 2
-https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1,True Sports 5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1,True Sports 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1,True Sports 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,True PremierHD1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD2
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 4
+http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 5
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd1
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd2
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd3
+http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd4
+http://178.175.132.170:8888/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports EXTRA
 https://siloh.pluto.tv/lilo/production/bein/master.m3u8
 #EXTINF:-1,beIN Sports ESP
@@ -110,12 +100,7 @@ http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8?SBN
 #EXTINF:-1,beIN Sports 9
 http://31.220.41.88:8081/live/bein9.stream/chunks.m3u8?SBN#EXTINF:-1,MVTV TVB Thai
 https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-#EXTINF:-1,Fox Sports 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1,Fox Sports 2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1,Fox Sports 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
 #EXTINF:-1,Fox Sports News Aus
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,True NBA TV
@@ -202,6 +187,8 @@ http://103.81.104.118/hls/stream40.m3u8
 http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1,UNEARTH
 https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,National Geographic EN
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Animal Planet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1,H2
