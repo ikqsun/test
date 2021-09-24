@@ -11,8 +11,8 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1,ALTV4 HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1,ERROR-TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1,TPTV
+http://live.parliament.go.th/livestream/tvparliament/playlist.m3u8
 
 #EXTINF:-1,TNN16
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
